@@ -35,6 +35,6 @@ A single network inspection covers that session and is not an independent securi
 
 ## Keep public feedback separate from private documents
 
-This repository's issues and attachments are public. Describing a file's general structure, approximate size, and page count is usually enough to start a report. Share a synthetic example when possible.
+Use the [FeedLog feedback portal](https://pdf-compress-ai.feedlog.ai/) for product questions and bug reports. Do not include confidential PDFs or personal information in feedback posts or attachments. Describing a file's general structure, approximate size, and page count is usually enough to start a report. Share a synthetic example when possible.
 
-For privacy questions, use the contact method in the website's Privacy Policy rather than posting personal information in an issue.
+For privacy questions, use the contact method in the website's Privacy Policy rather than posting personal information in a feedback request.
