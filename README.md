@@ -2,11 +2,11 @@
 
 **Compress PDFs locally in your browser — no file upload, no sign-up, no watermark.**
 
-[Open PDF-Compress.ai](https://pdf-compress.ai/)
+[Open PDF-Compress.ai](https://pdf-compress.ai/) · [Feedback and feature requests](https://pdf-compress-ai.feedlog.ai/)
 
 PDF-Compress.ai is a free online PDF compressor for email attachments, application forms, resumes, reports, and scanned documents. Select your PDFs, choose a compression level, and download the results. PDF processing runs on your device instead of uploading your documents to a compression server.
 
-This is the official documentation and feedback repository maintained by [SaaSAIHub](https://github.com/SaaSAIHub). It contains product guides and issue templates; the website's application source code is not included.
+This is the official documentation repository maintained by [SaaSAIHub](https://github.com/SaaSAIHub). It contains product guides; the website's application source code is not included. Product feedback and feature requests are collected in our [FeedLog portal](https://pdf-compress-ai.feedlog.ai/).
 
 ![PDF-Compress.ai homepage with its local PDF selection area and file limits](https://github.com/user-attachments/assets/8e278429-0dd0-472c-8464-f79b6247e3da)
 
@@ -75,9 +75,9 @@ Compression does not add OCR. Existing searchable text is retained by design; im
 - [Usage guide and troubleshooting](docs/usage-guide.md)
 - [Local processing and privacy](docs/privacy.md)
 - [How to run a reproducible compression test](docs/testing-method.md)
-- [Report a problem or suggest an improvement](https://github.com/SaaSAIHub/pdf-compress-ai/issues/new/choose)
+- [Report a problem or suggest an improvement on FeedLog](https://pdf-compress-ai.feedlog.ai/)
 - [Contributing to these docs](CONTRIBUTING.md)
 
-GitHub issues are public. Use a synthetic or non-sensitive example when reporting a problem; do not attach confidential PDFs or personal documents.
+Use the FeedLog portal for product feedback. When reporting a problem, use a synthetic or non-sensitive example; do not attach confidential PDFs or personal documents.
 
 Product details last checked: **September 9, 2026**. Features and limits may change; the live website and its [Terms of Service](https://pdf-compress.ai/terms-of-service) describe the current service.
