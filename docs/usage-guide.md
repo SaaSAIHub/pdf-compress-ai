@@ -52,6 +52,6 @@ The tool does not promise compatibility with every PDF feature. For documents wh
 
 ## Report a reproducible problem
 
-Use the [bug report form](https://github.com/SaaSAIHub/pdf-compress-ai/issues/new?template=bug_report.yml). Include the compression mode, browser and operating system, approximate file size and page count, steps to reproduce, and the message shown by the tool.
+Open the [FeedLog feedback portal](https://pdf-compress-ai.feedlog.ai/) and submit a request in the **Bug Report** board. Include the compression mode, browser and operating system, approximate file size and page count, steps to reproduce, and the message shown by the tool.
 
 Do not post confidential documents. A synthetic sample that reproduces the same behavior is more useful than a screenshot containing private information. See [contributing](../CONTRIBUTING.md).
