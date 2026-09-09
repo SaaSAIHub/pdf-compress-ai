@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Use PDF-Compress.ai
+    url: https://pdf-compress.ai/
+    about: Open the browser-based PDF compressor.
+  - name: Privacy questions
+    url: https://pdf-compress.ai/privacy-policy
+    about: Read the privacy policy and use its contact method for private questions.
